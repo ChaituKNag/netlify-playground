@@ -9,6 +9,10 @@ body {
   color: white;
 }
 
+* {
+  outline: 1px solid red;
+}
+
 .titan-background {
   position: absolute;
   width: 100%;
